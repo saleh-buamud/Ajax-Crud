@@ -19,6 +19,3 @@ Route::get('/', function ($d) {
 });
 Route::get('/',[ProductController::class,'index'])->name('product.index');
 Route::Post('/add-product',[ProductController::class,'addProduct'])->name('product.addProduct');
-Route::get('about',function(){
-    return 'about';
-});

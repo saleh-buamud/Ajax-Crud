@@ -15,9 +15,6 @@
 </head>
 
 <body>
-    <h3>Salej</h3><h1>grgreesccsscsabkjbcbsjksackjer</h1>
-    <h3>vddvd</h3>
-    <ul>vddvdv</ul>
     <div class="container">
         <div class="row">
             <div class="col-md-2"></div>
